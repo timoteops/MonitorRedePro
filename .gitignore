@@ -1,4 +1,12 @@
+# Pastas e arquivos de ambiente do Python
 __pycache__/
 *.pyc
+venv/
+.env
+
+# Configurações do editor
 .vscode/
-VersaoAntiga/
+
+# Arquivos de banco de dados ou logs que possam surgir
+*.db
+*.log
